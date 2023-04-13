@@ -10,7 +10,7 @@ It includes:
     - DaisyUI
 
 - Server
-    - Express.js
+    - AdonisJS
     
 
 ## Authors
