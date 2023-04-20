@@ -1,7 +1,7 @@
 
-# Awesomo
+# Awesemo
 
-Awesomo is an awesome template for future projects 🚀
+Awesemo is an awesome template for future projects 🚀
 It includes:
 - Client
     - SvelteKit
